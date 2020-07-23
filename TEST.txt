@@ -5,4 +5,4 @@ I drink coffee everyday
 Sharing information feels good!
 Teach course feels good!
 I like to teacg people!
-Git is a good tool!
+Git is a good tool.
